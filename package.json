@@ -3,7 +3,9 @@
     "start": "nodemon index.js"
   },
   "dependencies": {
-    "express": "^4.21.0"
+    "diskusage": "^1.2.0",
+    "express": "^4.21.0",
+    "systeminformation": "^5.23.5"
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
